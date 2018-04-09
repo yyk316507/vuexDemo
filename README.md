@@ -1,16 +1,5 @@
-<<<<<<< HEAD
+
 # vuex-demo
-vuex的小demo
-=======
-<<<<<<< HEAD
-# vuex-demo
-vuex的小demo
-=======
-<<<<<<< HEAD
-# vuex-demo
-vuex的小demo
-=======
-# v-vuex
 
 > A Vue.js project
 
